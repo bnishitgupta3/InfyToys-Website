@@ -51,6 +51,10 @@ export function Footer({ onNavigate }: FooterProps) {
                 <MapPin className="flex-shrink-0 mt-1" size={16} />
                 <span className="text-sm">18, Bypass Road, Thiruvur, Ntr District, Andhra Pradesh - 521235</span>
               </li>
+              <li className="flex items-start gap-2 text-gray-400">
+                <MapPin className="flex-shrink-0 mt-1" size={16} />
+                <span className="text-sm">411/5 Elvitigala Mawatha, Colombo 00500, Sri Lanka</span>
+              </li>
               <li className="flex items-center gap-2 text-gray-400">
                 <Phone className="flex-shrink-0" size={16} />
                 <span className="text-sm">+91 9866513337</span>
